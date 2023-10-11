@@ -1,0 +1,26 @@
+{
+    "1902001":{
+        "name":"A",
+        "id":"1902001",
+        "password":"1902001",
+        "qrcode":"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1902001"
+    },
+    "1902002":{
+        "name":"B",
+        "id":"1902002",
+        "password":"1902002",
+        "qrcode":"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1902002"
+    },
+    "1902003":{
+        "name":"C",
+        "id":"1902003",
+        "password":"1902003",
+        "qrcode":"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1902003"
+    },
+    "1902004":{
+        "name":"D",
+        "id":"1902004",
+        "password":"1902004",
+        "qrcode":"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1902004"
+    }
+}
